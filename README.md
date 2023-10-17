@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anandha krishnan</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">I am currently pursuing my master's degree at Arizona State University and I have a passion for technology. I enjoy exploring new and innovative technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandhakrishnan27&label=Profile%20views&color=0e75b6&style=flat" alt="anandhakrishnan27" /> </p>
 
